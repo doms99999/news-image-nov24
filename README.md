@@ -8,7 +8,7 @@ One image summing up the world news of Tuesday 24 November 2026, made for make.f
 - **Gaza strikes kill seven** — Israeli airstrikes kill Hamas's internal security director Naeem Abu Nahel and six others, including police officers and a UNRWA worker.
 - **Britain lands 2035 World Cup** — the UK is awarded the 2035 Women's World Cup by acclamation.
 
-The masthead names the day, as the brief asks, and the footer carries the make.fun lockup from the official press kit. The program is a one-purpose `main.ts` that copies the committed `entry.png` to `/output/entry.png`.
+The masthead names the day, as the brief asks, and the footer carries the official make.fun lockup from the press kit, composited under the artwork. The program is a one-purpose `main.ts` that copies the committed `entry.png` to `/output/entry.png`.
 
 [![make.fun bounty](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
 [![rank](https://make.fun/badge/news-image-20261124/doms99999/news-image-nov24/rank.svg)](https://make.fun/bounty/news-image-20261124)
