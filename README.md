@@ -1,6 +1,6 @@
 # The World in One Day — Tuesday 24 November 2026
 
-One image summing up the world news of Tuesday 24 November 2026, made for make.fun's news-image-20261124 bounty. A five-panel editorial collage of the day's biggest stories, over **The World Brief: 22 stories from the day, each with its dateline and the time it moved (GMT)** — the Strait of Hormuz, Gaza City, Zaporizhzhia, Washington, Seoul, Berlin, Brussels, Kyiv, Baghdad, Benghazi, Santa Clara, Singapore, Kuala Lumpur, Richmond, Ituri, Paris, London and Los Angeles. The five panels:
+One image summing up the world news of Tuesday 24 November 2026, made for make.fun's news-image-20261124 bounty. A five-panel editorial collage of the day's biggest stories, over **The World Brief: 40 stories from the day, each with its dateline and the time it moved (GMT)** — the Strait of Hormuz, Antalya, Gaza City, Zaporizhzhia, Benghazi, Washington, Ras Al Khaimah, Seoul, Oslo, Berlin, Warsaw, Brussels, Riga, Kyiv, Baghdad, London, Mekelle, Santa Clara, New York, Tokyo, Singapore, Kuala Lumpur, Beijing, Dhaka, Richmond, Gopalganj, Ituri, Hanoi, Paris, Riyadh, Cucuta, Lisbon and Los Angeles. The five panels:
 
 - **Tankers burn in Hormuz** — Iran refuses talks until its conditions are met as three oil tankers hit mines in the Strait of Hormuz and the US naval blockade holds; Vance and Rubio host Qatar's prime minister at the White House.
 - **Huang returns to NVIDIA** — Jensen Huang is reinstated as Nvidia's CEO, with Trump claiming the credit and Senate Democrats vowing an inquiry.
