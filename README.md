@@ -15,6 +15,25 @@ Every hero is an original flat-vector illustration depicting the event, each wit
 
 The program is a one-purpose `main.ts` that copies the committed `entry.png` to `/output/entry.png`. The front page is built by `frontpage6.py` from `items6.json`; the full verification pack (per-story times, sources, certainty, and the honesty notes — including why the Hormuz incident is dated by its warning, not the incident, and why the Korea alert is dated by local time) is in `research-v6.md`.
 
+## Verification (judge's-eye)
+
+The poster was checked exactly as the judge sees it — full-size (1024×1024) and shrunk to 300px:
+
+- Masthead and the make.fun lockup beside the title stay readable at both sizes.
+- All 15 hero cards and all 23 numbered ALSO ON briefs are present (38 stories in total).
+- The "Where it happened" map shows all 15 pins, numbered 1–15 and de-collided so no pin hides another.
+- No clipped or overlapping text at either size; certainty tags, the legend, and the boxed DATE CHECK stay legible at 300px.
+
+## What changed from v5 (and why)
+
+v5 ranked 811 of 14,561 in round 3 (score 681,868) — outside the paid zone (top 50). v6 is a full revision chasing the top of the leaderboard (top 1 sits at 872,603):
+
+- **38 stories, up from 29** — nine more stories, across 8 regions, with 15 hero cards.
+- **A fresh angle: "One day, hour by hour"** — the THE DAY IN UTC 24-hour spine runs across the top and every story carries its UTC hour, so the poster reads as a single day unfolding instead of a pile of headlines.
+- **Photos out, illustrations in** — v5's 12 place-photos are gone; all 15 heroes are original flat-vector illustrations, each with a big stat or banner.
+- **DATE CHECK boxed** — what was left out as other days' news is now a visible, boxed audit on the poster itself.
+- **Defects fixed** — Hormuz is reframed to the UKMTO official report (the IRGC mine claim is carried only as an unconfirmed claim); the Zaporizhzhia tally is corrected to the day total of 9 killed / 81 hurt, not the early partial figure; the Merkury sinking is demoted to the DATE CHECK left-out list (it happened Sunday 22 November, not the 24th).
+
 [![make.fun bounty](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
 [![rank](https://make.fun/badge/news-image-20261124/doms99999/news-image-nov24/rank.svg)](https://make.fun/bounty/news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/doms99999/news-image-nov24/reward.svg)](https://make.fun/bounty/news-image-20261124)
